@@ -98,10 +98,10 @@ textarea {
                 <label for="mail"><span>Email <span class="required-star">*</span></span></label>
                 <input type="email" id="mail" name="user_email">
             </li>
-            <li>
+            <!-- <li>
                 <label for="msg"><span>Message</span></label>
                 <textarea rows="4" cols="50"></textarea>
-            </li>
+            </li> -->
             <li>
                 <input type="submit">
             </li>
